@@ -1,0 +1,1 @@
+This telegram bot is now inactive, but when I was serving in the army, this bot helped my coy keep track of daily parade state. It tracks everything included in the parade state and stores all the date on google sheets where different data can be retrieved via the bot and shown nicely on telegram.
